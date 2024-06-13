@@ -1,0 +1,34 @@
+Amount of Unique Municipalities: 7
+
+List of Unique Municipalities:
+Amsterdam
+'s-Gravenhage
+'s-Hertogenbosch
+Bloemendaal
+Kaag en Braassem
+Goes
+Haarlem
+
+Top 10 Municipalities with the Highest Number of Permits (Including Permit Count):
+municipality
+Amsterdam           11406
+'s-Gravenhage         745
+Bloemendaal             4
+Haarlem                 4
+'s-Hertogenbosch        1
+Kaag en Braassem        1
+Goes                    1
+
+Number of Permits per Year in Amsterdam:
+2021    1850
+2022    4229
+2023    5196
+2024     131
+
+Number of Permits per Year in All Other Municipalities (Excluding Amsterdam):
+2018      2
+2019      2
+2021    153
+2022    321
+2023    277
+2024      1
